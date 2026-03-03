@@ -56,3 +56,9 @@ DiskFreeGB      : 120
 Uptime          : 3 days, 4 hours, 12 minutes
 NetworkAdapters : {@{InterfaceAlias=Ethernet; IPv4=192.168.1.25}}
 ```
+
+## Screenshots
+
+| Screenshot | Description |
+|-----------|-------------|
+| ![Script Output](screenshots/script-output.png) | Example of the script running in PowerShell |
