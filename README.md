@@ -32,15 +32,15 @@ I strengthened my understanding of PowerShell fundamentals, including working wi
 ### Run the script
 ```powershell
 .\Get-SystemInfo.ps1
-
+```
 ### Export output to a text file
 ```powershell
 .\Get-SystemInfo.ps1 -OutputPath .\systeminfo.txt
-
+```
 ### Export the output to a JSON file
 ```powershell
 .\Get-SystemInfo.ps1 -OutputPath .\systeminfo.json
-
+```
 ### Example Output
 
 OSName          : Microsoft Windows 10 Pro
