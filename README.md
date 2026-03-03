@@ -42,7 +42,7 @@ I strengthened my understanding of PowerShell fundamentals, including working wi
 .\Get-SystemInfo.ps1 -OutputPath .\systeminfo.json
 ```
 ### Example Output
-
+```
 OSName          : Microsoft Windows 10 Pro
 OSVersion       : 10.0.19045
 CPUName         : Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
@@ -55,3 +55,4 @@ DiskSizeGB      : 256
 DiskFreeGB      : 120
 Uptime          : 3 days, 4 hours, 12 minutes
 NetworkAdapters : {@{InterfaceAlias=Ethernet; IPv4=192.168.1.25}}
+```
